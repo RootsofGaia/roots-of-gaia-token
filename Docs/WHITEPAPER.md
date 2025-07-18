@@ -28,7 +28,7 @@ Global ecosystems are collapsing, and indigenous communities face cultural erasu
 | Community Rewards       | 20%          | 200,000,000    | Airdrops Staking, referrals, Tribes App |
 | Environmental Grants    | 20%          | 200,000,000    | Verified donation flows                 |
 | Team & Founder          | 15%          | 150,000,000    | Vested 12 months                        |
-| Reserve & Treasury      | 10%          | 100,000,000    | Emergency + DAO treasury     		    |
+| Reserve & Treasury      | 15%          | 150,000,000    | Emergency + DAO treasury     		    |
 | Marketing & Awareness   | 10%          | 100,000,000    | Airdrops, campaigns, events    			|
 
 ## 6. Presale Details
